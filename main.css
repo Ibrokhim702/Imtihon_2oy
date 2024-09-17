@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1330px;
+    width: 100%;
+    margin: 0 auto;
+}
+.check__title{
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    list-style: none;
+    
+}
+.link{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+transition: 0.5s ease-in-out;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.header{
+    padding-top: 24px;
+}
+.btn{
+    
+font-family: Open Sans Condensed;
+font-size: 15px;
+font-weight: 700;
+line-height: 150%;
+letter-spacing: 2px;
+text-align: left;
+text-transform: uppercase;
+width: 189px;
+height: 47px;
+border-radius: 8px;
+border: none;
+padding: 0 2px;
+transition: 0.5s  ease-in-out;
+}
+.link:hover{
+color: rgb(222, 46, 84);
+}
+.btn:hover{
+    background-color: rgb(222, 46, 84) ;
+}
+.card{
+    background-image:url("./images/image\ 4\ \(1\).png");
+    background-repeat: no-repeat;
+    margin-top: 24px;
+  
+  
+}
+.text__check{
+    /* Big heading */
+color: rgb(255, 255, 255);
+font-family: "Open Sans Condensed";
+font-size: 36px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+padding: 120px 189px 48px 170px;
+}
+.ota{
+    display: flex;
+   justify-content: space-between;
+}
+.btn__1{
+    font-family: Open Sans Condensed;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 2px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 189px;
+    height: 47px;
+    border-radius: 8px;
+    border: none;
+    padding: 0 2px;
+  transition: 0.5S ease-in-out;
+}
+.btn__1:hover{
+    background-color: rgb(222, 46, 84) ;
+}
+.title{
+   text-align: center
+}
+.card__title{
+    text-align: center;
+    padding-top: 65px;
+    /* Big heading */
+color: rgb(0, 0, 0);
+font-family: Open Sans Condensed;
+font-size: 36px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+}
+.div{
+ width: 864px;
+display:flex;
+align-items: center;
+}
+.title__5{
+   /* Smaller heading */
+color: rgb(34, 34, 34);
+font-family: Open Sans Condensed;
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0px;
+padding-top: 25px;
+
+}
+.text__card{
+
+  /* Body text */
+color: rgb(68, 68, 68);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0px;
+padding-top: 24px;
+}
+.bad{
+  width: 600px;
+margin: 0 auto;
+}
+.cardd{
+    display: flex;
+    width: 867px;
+    gap: 30px;
+    margin: 0 auto;
+}
+.online{
+    margin-left: 80px;
+}
+
+.pi{
+    width: 600px;
+     /* Body text */
+color: rgb(68, 68, 68);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+padding-top: 20px;
+}
+.list__hero{
+     /* Smaller heading */
+color: rgb(34, 34, 34);
+font-family: "Open Sans Condensed";
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+
+}
+.w1{
+    display: flex;
+    align-items: center;
+    margin-top: 65px;
+}
+.hero__list{
+    width: 500px;
+    margin: 0 auto;
+}
+.section2{
+    margin-top: 250px;
+    background-color: rgb(14, 180, 193);
+    width: 1440px;
+    height: 670px;
+}
+.hero__title{
+    width: 527px;
+   display: flex;
+   margin: 0 auto;
+   color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 64px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: 0px;
+text-align: center;
+}
+.picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 108px;
+    border-radius: 10px;
+margin-top: 80px;
+}
+.tab{
+    width: 540px;
+    background: rgb(255, 255, 255);
+    height: 331px;
+   text-align: center;
+   border-radius: 10px;
+   height: 360px;
+}
+.sdf{
+    text-align: center;
+    color: rgb(61, 59, 72);
+font-family: Poppins;
+font-size: 14px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: 0.25px;
+text-align: center;
+}
+.e33{
+    width: 460px;
+    height: 39px;
+    padding: 0 50px;
+}
+.btn__2{
+    width: 460px;
+    height: 39px;
+    background-color: rgb(56, 204, 139);
+    border: none;
+    border-radius: 5px;
+}
+.footer{
+    background-color: black;
+    padding-top: 10px;
+}
+
